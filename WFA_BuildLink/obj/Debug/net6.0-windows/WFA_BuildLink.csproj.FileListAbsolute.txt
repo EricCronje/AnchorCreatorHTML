@@ -1,0 +1,16 @@
+C:\Users\ericc\source\repos\WFA_BuildLink\WFA_BuildLink\bin\Debug\net6.0-windows\WFA_BuildLink.exe
+C:\Users\ericc\source\repos\WFA_BuildLink\WFA_BuildLink\bin\Debug\net6.0-windows\WFA_BuildLink.deps.json
+C:\Users\ericc\source\repos\WFA_BuildLink\WFA_BuildLink\bin\Debug\net6.0-windows\WFA_BuildLink.runtimeconfig.json
+C:\Users\ericc\source\repos\WFA_BuildLink\WFA_BuildLink\bin\Debug\net6.0-windows\WFA_BuildLink.dll
+C:\Users\ericc\source\repos\WFA_BuildLink\WFA_BuildLink\bin\Debug\net6.0-windows\ref\WFA_BuildLink.dll
+C:\Users\ericc\source\repos\WFA_BuildLink\WFA_BuildLink\bin\Debug\net6.0-windows\WFA_BuildLink.pdb
+C:\Users\ericc\source\repos\WFA_BuildLink\WFA_BuildLink\obj\Debug\net6.0-windows\WFA_BuildLink.Form1.resources
+C:\Users\ericc\source\repos\WFA_BuildLink\WFA_BuildLink\obj\Debug\net6.0-windows\WFA_BuildLink.csproj.GenerateResource.cache
+C:\Users\ericc\source\repos\WFA_BuildLink\WFA_BuildLink\obj\Debug\net6.0-windows\WFA_BuildLink.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ericc\source\repos\WFA_BuildLink\WFA_BuildLink\obj\Debug\net6.0-windows\WFA_BuildLink.AssemblyInfoInputs.cache
+C:\Users\ericc\source\repos\WFA_BuildLink\WFA_BuildLink\obj\Debug\net6.0-windows\WFA_BuildLink.AssemblyInfo.cs
+C:\Users\ericc\source\repos\WFA_BuildLink\WFA_BuildLink\obj\Debug\net6.0-windows\WFA_BuildLink.csproj.CoreCompileInputs.cache
+C:\Users\ericc\source\repos\WFA_BuildLink\WFA_BuildLink\obj\Debug\net6.0-windows\WFA_BuildLink.dll
+C:\Users\ericc\source\repos\WFA_BuildLink\WFA_BuildLink\obj\Debug\net6.0-windows\ref\WFA_BuildLink.dll
+C:\Users\ericc\source\repos\WFA_BuildLink\WFA_BuildLink\obj\Debug\net6.0-windows\WFA_BuildLink.pdb
+C:\Users\ericc\source\repos\WFA_BuildLink\WFA_BuildLink\obj\Debug\net6.0-windows\WFA_BuildLink.genruntimeconfig.cache
